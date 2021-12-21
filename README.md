@@ -9,7 +9,7 @@ Python, Deeplearning Classification, NLP, 청와대, 청원
 간단한 딥러닝 모델로 문자를 분석하여 청원 클래스를 분류해보세요!
 
 
-#Data
+# Data
 
 ① train.csv(53MB) : 청원의 카테고리와 내용
 

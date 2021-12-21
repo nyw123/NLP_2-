@@ -10,6 +10,7 @@ Python, Deeplearning Classification, NLP, 청와대, 청원
 
 
 #Data
+
 ① train.csv(53MB) : 청원의 카테고리와 내용
 
 ② test.csv(7MB) : 청원 내용 

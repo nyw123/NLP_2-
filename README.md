@@ -18,6 +18,9 @@ Python, Deeplearning Classification, NLP, 청와대, 청원
 ③ sample_submission.csv(1MB) : submission 파일의 예시
 
 ④ 라벨
+
 	0 : 인권/성평등
+	
 	1 : 문화/예술/체육/언론
+	
 	2 : 육아/교육

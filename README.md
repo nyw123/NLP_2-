@@ -25,8 +25,3 @@ Python, Deeplearning Classification, NLP, 청와대, 청원
 	1 : 문화/예술/체육/언론
 	
 	2 : 육아/교육
-
-
-Baseline Code로만 학습시켜서 제출했더니 65등(90명 중)  0.8396
-
-![image](https://user-images.githubusercontent.com/16568200/146928086-2a79b4d8-df91-4a18-a25d-ac5ef8dbf7fa.png)

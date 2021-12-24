@@ -2,3 +2,6 @@
 ## 1. baseline code
 #### score: 0.8454 (91명 중 58등)
 ![image](https://user-images.githubusercontent.com/64716178/147303783-509c0783-b474-461c-b041-455e58f7e8ff.png)
+## 2. Mecab Tokenizer 이용
+#### score: 0.8806 (91명 중 20등)
+![image](https://user-images.githubusercontent.com/64716178/147306160-6f4b8f38-bac9-4cbd-9ebf-18b09e4b4b92.png)

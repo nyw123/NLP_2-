@@ -5,3 +5,6 @@
 ## 2. Mecab Tokenizer 이용
 #### score: 0.8806 (91명 중 20등)
 ![image](https://user-images.githubusercontent.com/64716178/147306160-6f4b8f38-bac9-4cbd-9ebf-18b09e4b4b92.png)
+## 3. Transformer 추가
+#### score: 0.8632
+![image](https://user-images.githubusercontent.com/64716178/147423890-340fc1a6-c150-40d5-bab7-49e47bbb9d45.png)

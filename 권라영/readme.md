@@ -8,3 +8,5 @@
 ## 3. Transformer 추가
 #### score: 0.8632
 ![image](https://user-images.githubusercontent.com/64716178/147423890-340fc1a6-c150-40d5-bab7-49e47bbb9d45.png)
+## 4. LSTM
+![image](https://user-images.githubusercontent.com/64716178/147549311-6316aac2-063e-485d-9368-452c22df33c5.png)
